@@ -1,0 +1,7 @@
+dash
+dash-html-components
+dash-core-components
+pandas
+plotly
+scikit-learn
+tensorflow
